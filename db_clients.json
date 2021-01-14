@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "60007f10443db525a4455411"
+  },
+  "nome": "Fulano da Silva",
+  "nascimento": {
+    "$date": "2000-12-26T02:00:00Z"
+  },
+  "email": "fulano@email.com",
+  "telefone": "(11) 99955-5588",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6000810e4bb30c270417ebec"
+  },
+  "nome": "João da Silva",
+  "nascimento": {
+    "$date": "1985-11-01T03:00:00Z"
+  },
+  "email": "joao@email.com",
+  "telefone": "(11) 99955-5588",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6000825fd6b87026f8735856"
+  },
+  "nome": "Dolores da Costa",
+  "nascimento": {
+    "$date": {
+      "$numberLong": "-29019600000"
+    }
+  },
+  "email": "dolores@email.com",
+  "telefone": "(11) 99955-5588",
+  "__v": 0
+}]
